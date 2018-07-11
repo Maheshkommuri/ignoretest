@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+my name is mahesh
+=======
+
+Our name is Prateek and Mahesh
+>>>>>>> 13755eeb297980e8d6109bfafdb2573d993f7b9d
